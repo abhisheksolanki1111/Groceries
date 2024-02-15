@@ -127,6 +127,7 @@
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
                 </div>
+                <a href="{{route('login')}}">login</a>
             </div>
         </div>
     </body>
